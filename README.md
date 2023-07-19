@@ -29,7 +29,7 @@ Unreal Engine (5.2) FontViewer (Editor Utility) tool, browse and preview font fi
 
 ### Tool inside your project
 
-. Download the repository, copy Tools folder to you project Content folder.<br/>
+. Download the repository, copy Tools folder to your project Content folder.<br/>
 . In Content Browser, go to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
 
 ## Credits
