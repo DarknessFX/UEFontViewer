@@ -25,12 +25,12 @@ FontViewer (Editor Utility) tool, usable to browse and preview font files for st
 ### FontViewer project
 
 . Download the repository and open FontViewer.uproject.<br/>
-. In Content Browser, got to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
+. In Content Browser, go to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
 
 ### Tool inside your project
 
 . Download the repository, copy Tools folder to you project Content folder.<br/>
-. In Content Browser, got to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
+. In Content Browser, go to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
 
 ## Credits
 
