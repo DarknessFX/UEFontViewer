@@ -18,9 +18,7 @@
 
 FontViewer (Editor Utility) tool, usable to browse and preview font files for styles and localization support.
 
-## About
-
-
+<img src="https://github.com/DarknessFX/UEFontViewer/blob/main/.git_img/FontViewer_Screenshot1.png?raw=true" width="640px" /> <br/>
 
 ## How to use
 
@@ -29,16 +27,10 @@ FontViewer (Editor Utility) tool, usable to browse and preview font files for st
 . Download the repository and open FontViewer.uproject.<br/>
 . In Content Browser, got to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
 
-### Inside your project
+### Tool inside your project
 
 . Download the repository, copy Tools folder to you project Content folder.<br/>
 . In Content Browser, got to Content > Tools > FontViewer, right-click FontViewer and select Run Editor Utility Widget.
-
-### Stand-alone executable.
-
-. Download the latest <a href="https://github.com/DarknessFX/UEFontViewer/releases" target="_blank">release</a>. <br/>
-. Unzip the FontViewer.zip file. <br/>
-. Execute FontViewer.exe . <br/>
 
 ## Credits
 
