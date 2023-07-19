@@ -12,11 +12,11 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
-# UEFontViewer
+# Unreal Engine FontViewer (Editor Utility) tool
 
 <img src="https://github.com/DarknessFX/UEFontViewer/blob/main/.git_img/FontViewer.png?raw=true" width="64px" /> <br/>
 
-FontViewer (Editor Utility) tool, usable to browse and preview font files for styles and localization support.
+Unreal Engine (5.2) FontViewer (Editor Utility) tool, browse and preview font files for styles and localization support.
 
 <img src="https://github.com/DarknessFX/UEFontViewer/blob/main/.git_img/FontViewer_Screenshot1.png?raw=true" width="640px" /> <br/>
 
